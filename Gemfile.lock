@@ -274,6 +274,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 219)
   jekyll-remote-theme
+  nokogiri (>= 1.12.5)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
