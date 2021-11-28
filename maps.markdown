@@ -15,6 +15,7 @@ Non-region specific:
 SF/Bay Area
 [My Guide](https://goo.gl/maps/iYv2DucuekaU1UYR8)
 [Want to Go](https://goo.gl/maps/F1imQ9K49SV54Jwb9)
+[Ben's List](https://goo.gl/maps/V2Sj1ATzB5hKHAWPA)
 
 Austin
 [My Guide](https://goo.gl/maps/pfq5MZaiW9jrHJu49)
@@ -23,6 +24,7 @@ Austin
 
 Seattle
 [My Guide](https://goo.gl/maps/KGu3S9SJoCpCNHEM9)
+[Ben's List](https://maps.app.goo.gl/AoGV2PhhJFB7GFEA6)
 
 New York
 [My Guide](https://goo.gl/maps/V2o3pQDpJbY5DNfQ6)
